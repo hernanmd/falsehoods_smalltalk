@@ -3,7 +3,6 @@
 > Falsehood articles are a form of commentary on a particular subject, and are appreciated by the developer community at large for their effectiveness and terseness. They’re a convenient written form to approach an unfamiliar domain by dispelling myths, point out common pitfalls, show inconsistencies and subtleties.
 > In a sense, Falsehood articles are a suite of wordy unit-tests covering extensive edge-cases provided by real-world usage.
 
-
 # General Myths
 
   - Smalltalk is obsolete.
@@ -15,7 +14,6 @@
   - Smalltalk is not used in Big Data Science.
   - You cannot use Smalltalk from command line.
   - Few libraries in the ecosystem.
-
   - Most implementations do not support Full Closures.
   - Most implementations do not support executable generation.
   - There are no implementations supporting native widgets.
