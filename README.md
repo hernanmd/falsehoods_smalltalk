@@ -8,6 +8,10 @@
 
   - Smalltalk is obsolete.
   - It doesn't work for real-world development.
+  - All Smalltalk flavors are image-based.
+  - Image cannot be bootstrapped.
+  - All Smalltalks includes UI classes.
+  - All implementations uses green threads.
   - Smalltalk is not used in Big Data Science.
   - You cannot use Smalltalk from command line.
   - Few libraries in the ecosystem.
@@ -28,5 +32,14 @@
 
 # VM Myths
 
+  - All Smalltalk bytecode sets are stack-based VM.
+  - All VM implementations uses bytecodes.
+  - Bytecodes are always fixed-size.
+
 # GC Myths
 
+
+# Acknowledgements
+
+- Eliot Miranda
+- Jecel Assumpcao Jr.
