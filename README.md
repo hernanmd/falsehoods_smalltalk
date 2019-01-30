@@ -6,14 +6,15 @@
 # General Myths
 
   - Smalltalk is obsolete.
+  - Smalltalk is a programming language.
   - It doesn't work for real-world development.
   - All Smalltalk flavors are image-based.
-  - Image cannot be bootstrapped.
+  - A Smalltalk Image cannot be bootstrapped.
   - All Smalltalks includes UI classes.
   - All implementations uses green threads.
   - Smalltalk is not used in Big Data Science.
   - You cannot use Smalltalk from command line.
-  - Few libraries in the ecosystem.
+  - There are few libraries in the ecosystem.
   - Most implementations do not support Full Closures.
   - Most implementations do not support executable generation.
   - There are no implementations supporting native widgets.
@@ -41,3 +42,5 @@
 
 - Eliot Miranda
 - Jecel Assumpcao Jr.
+- Reinout Heeck
+- Hernán Morales Durand
