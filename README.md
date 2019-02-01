@@ -35,12 +35,17 @@
   - All VM implementations uses bytecodes.
   - Bytecodes are always fixed-size.
 
-# GC Myths
+# GC & Efficency Myths
 
+  - Smalltalk is less efficient than "low-level" languages.
+  - Smalltalk can't do "real time."
+  - Garbage collection is less efficient than manual memory management.
+  - Garbage collection is really slow if you use complex data structures.
 
 # Acknowledgements
 
 - Eliot Miranda
 - Jecel Assumpcao Jr.
 - Reinout Heeck
+- Stephen Pope
 - Hernán Morales Durand
