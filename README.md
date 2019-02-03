@@ -33,7 +33,6 @@
 
   - All Smalltalk bytecode sets are stack-based VM.
   - All VM implementations uses bytecodes.
-  - Bytecodes are always fixed-size.
 
 # GC & Efficency Myths
 
